@@ -1,6 +1,6 @@
 import { AppBar, DropDown } from "components";
 import { isPublicSearch } from "egov-ui-framework/ui-utils/commons";
-import digitLogo from "egov-ui-kit/assets/images/Digit_logo.png";
+import digitLogo from "egov-ui-kit/assets/images/Haryana-logo.jpeg";
 import msevaLogo from "egov-ui-kit/assets/images/mseva-punjab.png";
 import { fetchLocalizationLabel, setLocalizationLabels } from "egov-ui-kit/redux/app/actions";
 import { getQueryArg } from "egov-ui-kit/utils/commons";
