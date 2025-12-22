@@ -4,7 +4,7 @@ import UserProfile from "./UserProfile";
 import MenuItem from "material-ui/MenuItem";
 import { CommonMenuItems } from "./commonMenuItems";
 import Divider from "@material-ui/core/Divider";
-import digitLogo from "egov-ui-kit/assets/images/Digit_logo.png";
+import digitLogo from "egov-ui-kit/assets/images/Haryana-logo.jpeg";
 
 // import { Icon } from "components";
 import Label from "egov-ui-kit/utils/translationNode";
