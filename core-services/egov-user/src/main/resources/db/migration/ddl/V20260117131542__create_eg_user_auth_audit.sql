@@ -1,4 +1,3 @@
-// Create table to log user authentication activities - Santosh Kumar Mahto
 CREATE TABLE IF NOT EXISTS eg_user_auth_audit (
     id BIGSERIAL PRIMARY KEY,
     user_uuid VARCHAR(64),
